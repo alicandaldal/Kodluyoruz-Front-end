@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    list-style-position: inside;
+    margin: 20px;
+  }
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2em; 
+    color: red;  
+}
+
+.baslik2{
+    color:chocolate;
+    font-size: 1.5em;
+    
+}
+.baslik3{
+    color: darkgreen;
+    font-size: 1.3em;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin-left: 25px;
+}
+
+
